@@ -14,8 +14,7 @@ public class UserAssetTask {
      * 平台用户资产更新任务
      */
     public void platformUserAssetUpdate(){
-        // 调用你的service、util、entity 等
-        // 编写你的定时任务业务代码
+        // 调用你的service、util、entity 等，编写你的定时任务业务代码
         System.out.println("平台用户资产更新完成！");
     }
 }
