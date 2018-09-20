@@ -21,8 +21,8 @@ public class AutoTask {
      * 用户资产定时更新任务
      * 10s 更新一次
      */
-    @Scheduled(cron="0/10 * *  * * ? ")
-    public void platformUserAssetUpdate(){
+    @Scheduled(cron = "0/10 * *  * * ? ")
+    public void platformUserAssetUpdate() {
         userAssetTask.platformUserAssetUpdate();
     }
 }
