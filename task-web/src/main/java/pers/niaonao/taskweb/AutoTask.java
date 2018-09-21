@@ -3,13 +3,12 @@ package pers.niaonao.taskweb;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 import pers.niaonao.taskservice.UserAssetTask;
-
 import javax.annotation.Resource;
 
 /**
  * @Description :定时器
- * @Author:
- * @Date: 2018/9/20 15:17
+ * @Author: niaonao
+ * @Date: 2018/9/21 15:17
  */
 @Component
 public class AutoTask {
