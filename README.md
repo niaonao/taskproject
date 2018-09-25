@@ -11,6 +11,6 @@
 项目结构图：
 ![这是一张图片](https://github.com/niaonao/ImageIcon/blob/master/Cartoon/DragonBalls/timg.jpg)
 ![这是一张图片](https://github.com/niaonao/ImageIcon/blob/master/IDEAProject/TaskProject/20140814091840958maven-taskproject2.jpg)
-<center>![](https://github.com/niaonao/ImageIcon/blob/master/IDEAProject/TaskProject/20140814091840958maven-taskproject2.jpg)</center>
+![](https://github.com/niaonao/ImageIcon/blob/master/IDEAProject/TaskProject/20140814091840958maven-taskproject2.jpg)
 定时任务测试图：
-<center>![](https://github.com/niaonao/ImageIcon/blob/master/IDEAProject/TaskProject/20140814091840958web-task-run.jpg)</center>
+![](https://github.com/niaonao/ImageIcon/blob/master/IDEAProject/TaskProject/20140814091840958web-task-run.jpg)
