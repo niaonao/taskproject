@@ -9,8 +9,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;    博客链接: https://blog.csdn.net/niaonao/article/details/82811735
 # 项目结构图和定时任务测试图
 项目结构图：
-![这是一张图片](https://github.com/niaonao/ImageIcon/blob/master/Cartoon/DragonBalls/timg.jpg)
+<center>
+  
 ![这是一张图片](https://github.com/niaonao/ImageIcon/blob/master/IDEAProject/TaskProject/20140814091840958maven-taskproject2.jpg)
-![](https://github.com/niaonao/ImageIcon/blob/master/IDEAProject/TaskProject/20140814091840958maven-taskproject2.jpg)
+
+</center>
 定时任务测试图：
+<center>
+  
 ![](https://github.com/niaonao/ImageIcon/blob/master/IDEAProject/TaskProject/20140814091840958web-task-run.jpg)
+
+</center>
